@@ -1,0 +1,17 @@
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\bin\Debug\net6.0-windows\Calculadora.WinFormsApp.exe
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\bin\Debug\net6.0-windows\Calculadora.WinFormsApp.deps.json
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\bin\Debug\net6.0-windows\Calculadora.WinFormsApp.runtimeconfig.json
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\bin\Debug\net6.0-windows\Calculadora.WinFormsApp.dll
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\bin\Debug\net6.0-windows\Calculadora.WinFormsApp.pdb
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.Calculadora.resources
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.AssemblyInfo.cs
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.dll
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\refint\Calculadora.WinFormsApp.dll
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.pdb
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\Calculadora.WinFormsApp.genruntimeconfig.cache
+C:\Users\Fabian\Source\Repos\Calculadora.sl\Calculadora.WinFormsApp\obj\Debug\net6.0-windows\ref\Calculadora.WinFormsApp.dll
